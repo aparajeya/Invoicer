@@ -1,5 +1,5 @@
 # Invoicer
-This App is used for generating Invoice and for Inventory Management.
+This App is used for generating Invoices, doing Inventory Management and for analysing Daily sales.
 
 https://github.com/aparajeya/Invoicer/assets/10009540/519c4783-7866-4e81-8a68-50c1ca05656f
 
